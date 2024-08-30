@@ -71,7 +71,7 @@
 
 После чего нажмите кнопку **Обновить KeeneticOS**, роутер перезагрузится.
 
-9) Получаем файл конфигурации **AmneziaVPN** в телеграм-боте [@blacktemple_space_bot](https://t.me/blacktemple_space_bot):
+9) Получаем файл конфигурации **AmneziaVPN** в телеграм-боте [@blacktemple_space_bot](https://t.me/blacktemple_space_bot?start=ref780666396):
 
     - Приобретаем подписку, если еще не подписались
 
