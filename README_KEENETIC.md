@@ -33,8 +33,6 @@
 
 ## Zapret
 
-> **Важно!** Есть проблемы, а именно, [утечка памяти в модуле ядра Netfilter](https://github.com/bol-van/zapret/issues/311) и [случайные перезагрузки роутера](https://github.com/bol-van/zapret/issues/306), разработчики Keenetic в курсе о [проблеме](https://forum.keenetic.com/topic/18656-утечка-памяти-kn-1811-417/?do=findComment&comment=187392) и решат ее в следующем релизе 4.2 beta 3. Есть временное решение, а именно, отключение [сетевого ускорителя](https://help.keenetic.com/hc/ru/articles/214470905-Сетевой-ускоритель) в компонентах.
-
 - [Следуем данной инструкции, предварительно прочитав пункты ниже](https://github.com/nikrays/Zapret-on-Keenetic/blob/master/readme.md).
 
 - В пункте 14 выбираем **один** вариант, если он не заработает, позже его можно изменить.
