@@ -33,7 +33,7 @@
 
 ## Zapret
 
-- [Следуем данной инструкции, предварительно прочитав пункты ниже](https://github.com/nikrays/Zapret-on-Keenetic/blob/master/readme.md).
+- [Следуем данной инструкции, предварительно прочитав пункты ниже](https://github.com/vchikalkin/Zapret-on-Keenetic/blob/master/readme.md).
 
 - В пункте 14 выбираем **один** вариант, если он не заработает, позже его можно изменить.
 
@@ -49,7 +49,7 @@
 
 ## AmneziaVPN
 
-1) Обновите прошивку роутера согласно [инструкции](https://help.keenetic.com/hc/ru/articles/4402712117138-Установка-тестовой-сборки-KeeneticOS)
+1) Обновите прошивку роутера согласно [инструкции](https://help.keenetic.com/hc/ru/articles/360000399339-Обновление-интернет-центра)
 
 2) Настраиваем DNS по [инструкции](https://help.keenetic.com/hc/ru/articles/360007687159-Прокси-серверы-DNS-over-TLS-и-DNS-over-HTTPS-для-шифрования-DNS-запросов), если еще не сделали этого при настройке **Zapret**
 
